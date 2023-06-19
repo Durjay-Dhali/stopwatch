@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 
 ## Features
 
@@ -24,3 +24,7 @@ Open the index.html file in a web browser.
 Click the "Start" button to begin the stopwatch.
 Click the "Stop" button to pause the stopwatch.
 Click the "Reset" button to reset the stopwatch to zero.
+
+## Demo
+
+Click [here](https://digitalstopwatch.netlify.app/) to see the live demo
